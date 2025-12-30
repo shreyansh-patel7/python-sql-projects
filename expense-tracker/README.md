@@ -26,4 +26,4 @@ Database file is created automatically.
 - Using AUTOINCREMENT primary keys
 
 
->>>>>>>>>>This project was built as part of my Python–SQL learning journey.<<<<<<<<
+--------This project was built as part of my Python–SQL learning journey.--------

@@ -26,4 +26,4 @@ The database file will be created automatically.
 - Menu-driven Python programs
 
 
->>>>>>>>>>This project was built as part of my Python–SQL learning journey.<<<<<<<<
+----------This project was built as part of my Python–SQL learning journey.--------------
