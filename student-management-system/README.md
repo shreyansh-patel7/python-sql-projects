@@ -24,3 +24,6 @@ The database file will be created automatically.
 - Python–SQLite connection
 - SQL CRUD operations
 - Menu-driven Python programs
+
+
+>>>>>>>>>>This project was built as part of my Python–SQL learning journey.<<<<<<<<

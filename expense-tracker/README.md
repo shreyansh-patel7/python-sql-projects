@@ -24,3 +24,6 @@ Database file is created automatically.
 - Database schema design
 - SQL INSERT, SELECT, DELETE
 - Using AUTOINCREMENT primary keys
+
+
+>>>>>>>>>>This project was built as part of my Python–SQL learning journey.<<<<<<<<
